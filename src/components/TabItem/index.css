@@ -1,0 +1,30 @@
+.active-tab-name {
+  color: #2563eb;
+  font-weight: bold;
+}
+
+.tab {
+  padding: 0px 20px;
+  border-radius: 5px;
+  border: none;
+  transition: all 0.3s ease;
+  background-color: transparent;
+  cursor: pointer;
+  margin-bottom: 4px;
+  text-decoration: underline;
+  outline: none;
+  font-size: 20px;
+}
+
+.tab:hover {
+  transform: scale(1.05);
+  color: #000;
+}
+
+.tab-name {
+  color: #7b8794;
+}
+
+li {
+  list-style-type: none;
+}
