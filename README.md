@@ -1,7 +1,7 @@
 A fully responsive and interactive App Store UI built using React. It allows users to search, filter by categories, and interact with app cards dynamically.
 
 🌐 Live Demo
-🔗 
+🔗 https://harika-adepu.github.io/my-react-app/
 
 🚀 Features
 🔍 Live Search — filter apps instantly
@@ -15,5 +15,5 @@ A fully responsive and interactive App Store UI built using React. It allows use
    - JavaScript ES6
 
 🧠 What I Learned
-Managing component state in React
-Building UI components from reusable props
+- Managing component state in React
+- Building UI components from reusable props
